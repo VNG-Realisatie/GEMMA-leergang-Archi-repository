@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kern-kopp"
+    id="f912179b-fcf7-4ac9-9fcd-7d0451aa88a7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_aac2cbcb-2272-4d80-8a8a-5746ea210a36.xml#aac2cbcb-2272-4d80-8a8a-5746ea210a36"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_35eb0d83-bb1c-4645-b8d5-4c3866e04ffc.xml#35eb0d83-bb1c-4645-b8d5-4c3866e04ffc"/>
+</archimate:FlowRelationship>
