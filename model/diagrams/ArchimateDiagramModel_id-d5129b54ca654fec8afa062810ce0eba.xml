@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Default View"
+    id="id-d5129b54ca654fec8afa062810ce0eba">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-b4937cfaf5ec42919e8da80b7d1550b8"
+      name="Domeinen"
+      textAlignment="1"
+      fillColor="#ff8080">
+    <bounds
+        x="462"
+        y="138"
+        width="400"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>
