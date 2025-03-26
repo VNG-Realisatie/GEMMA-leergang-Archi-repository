@@ -10,8 +10,8 @@
       textAlignment="1"
       fillColor="#ff8080">
     <bounds
-        x="462"
-        y="138"
+        x="360"
+        y="300"
         width="400"
         height="140"/>
   </children>
